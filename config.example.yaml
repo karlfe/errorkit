@@ -1,0 +1,3 @@
+severity_overrides:
+  CACHE_MISS: WARNING
+  DB_CONN_LOST: CRITICAL
